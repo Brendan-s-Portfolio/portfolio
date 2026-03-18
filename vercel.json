@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "destination": "PASTE_DECK_URL_HERE", "permanent": true }
+  ]
+}
