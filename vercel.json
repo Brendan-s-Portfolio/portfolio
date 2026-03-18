@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/(.*)", "destination": "PASTE_DECK_URL_HERE", "permanent": true }
+    { "source": "/(.*)", "destination": "https://drive.google.com/file/d/1C9343x-t42PZgdbfUvbFwEZQzzqJ8BFj/view?usp=sharing", "permanent": true }
   ]
 }
