@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/", "destination": "https://docs.google.com/presentation/d/14b8y_DOY4x5tW00ruTNr5734b1yWtZL4/edit?usp=sharing", "permanent": true },
-    { "source": "/(.*)", "destination": "https://docs.google.com/presentation/d/14b8y_DOY4x5tW00ruTNr5734b1yWtZL4/edit?usp=sharing", "permanent": true }
+    { "source": "/", "destination": "https://docs.google.com/presentation/d/1HVpxgaBEorj304X1fm7uB1Jafu4Lrxsq/edit?usp=sharing", "permanent": false },
+    { "source": "/(.*)", "destination": "https://docs.google.com/presentation/d/1HVpxgaBEorj304X1fm7uB1Jafu4Lrxsq/edit?usp=sharing", "permanent": false }
   ]
 }
