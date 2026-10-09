@@ -2,10 +2,13 @@
     "rewrites": [
           { "source": "/htc2027", "destination": "https://htc2027.vercel.app/htc2027/" },
           { "source": "/htc2027/", "destination": "https://htc2027.vercel.app/htc2027/" },
-          { "source": "/htc2027/:path*", "destination": "https://htc2027.vercel.app/htc2027/:path*" }
+          { "source": "/htc2027/:path*", "destination": "https://htc2027.vercel.app/htc2027/:path*" },
+          { "source": "/bainbridgekit", "destination": "https://bainbridgekit.vercel.app/bainbridgekit/" },
+          { "source": "/bainbridgekit/", "destination": "https://bainbridgekit.vercel.app/bainbridgekit/" },
+          { "source": "/bainbridgekit/:path*", "destination": "https://bainbridgekit.vercel.app/bainbridgekit/:path*" }
     ],
     "redirects": [
           { "source": "/", "destination": "https://docs.google.com/presentation/d/1xKQkco3YKs6SIRsT8eZtEOOUEInAYT-N/edit?usp=sharing", "permanent": false },
-          { "source": "/((?!htc2027).*)", "destination": "https://docs.google.com/presentation/d/1xKQkco3YKs6SIRsT8eZtEOOUEInAYT-N/edit?usp=sharing", "permanent": false }
+          { "source": "/((?!htc2027|bainbridgekit).*)", "destination": "https://docs.google.com/presentation/d/1xKQkco3YKs6SIRsT8eZtEOOUEInAYT-N/edit?usp=sharing", "permanent": false }
     ]
 }
