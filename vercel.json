@@ -1,6 +1,7 @@
 {
     "rewrites": [
           { "source": "/htc2027", "destination": "https://htc2027.vercel.app/htc2027/" },
+          { "source": "/htc2027/", "destination": "https://htc2027.vercel.app/htc2027/" },
           { "source": "/htc2027/:path*", "destination": "https://htc2027.vercel.app/htc2027/:path*" }
     ],
     "redirects": [
